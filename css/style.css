@@ -51,9 +51,12 @@ p {
   position: absolute;
 
 }
+h1{
+  font-size: 10px;
+}
 .box {
   height:100px ;
-  width: 400px;
+  width: 350px;
   background-color: red;
   position: absolute;
   top: 50%;
